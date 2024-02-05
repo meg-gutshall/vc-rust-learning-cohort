@@ -1,6 +1,6 @@
-# VC Rust Learning Cohort Curriculum
+# VC Rust Learning Cohort
 
-Hello everyone! See below for Virtual Coffee's Rust Learning Cohort Curriculum.
+Hello everyone! The following is an overview of Virtual Coffee's asynchronous Rust Learning Cohort. It helps to already be familiar with programming and software development before you start (i.e. Rust may not be the best first programming language to learn).
 
 Questions? [Comment on the designated question thread](https://github.com/orgs/Virtual-Coffee/discussions/1122#discussioncomment-8348207) in our VC Discussion Board. We will be posting weekly check-ins on the [#learning-together Slack channel](https://virtual-coffee-group.slack.com/archives/C029MJ4E327) and schedule at least two group review sessions throughout the cohort.
 
@@ -68,4 +68,4 @@ We have created two suggested schedules to follow, depending on the amount of ti
 
 ## Contributing
 
-If you would like to add a learning resource, open a pull request.
+If you would like to add a learning resource, see [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step directions.

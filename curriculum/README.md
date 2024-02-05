@@ -4,6 +4,14 @@
 
 You can use this page with the entire curriculum to track your progress, or mark each section page.
 
+## High Level Overview
+
+- Install and setup Rust, then run through the basics
+- The basics - learn about variables, loops, etc.
+- Dive deeper - learn about Rust’s memory model
+- Round it out - learn how to write tests, handle errors, etc.
+- Advance your knowledge - parallelization + threads, generics 🧠 📈
+
 ## Introduction
 
 ### Reading
