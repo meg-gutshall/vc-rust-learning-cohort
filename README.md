@@ -36,6 +36,7 @@ Questions? [Comment on the designated question thread](https://github.com/orgs/V
   - [Primary Resources](./learning-resources/primary/README.md)
   - [Supplementary Resources](./learning-resources/supplementary/README.md)
   - [Additional Resources](./learning-resources/additional/README.md)
+- [Suggested Schedule](#suggested-schedule)
 - [Contributing](#contributing)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
@@ -55,6 +56,13 @@ Check out the curriculum directory for a chapter-by-chapter breakdown. Use the d
 ## Learning Resources
 
 Look in the [Primary](./learning-resources/primary/README.md) directory for materials needed to complete this curriculum. The [Supplementary](./learning-resources/supplementary/README.md) directory contains learning materials that will help you complete the curriculum, but are optional. The [Additional](./learning-resources/additional/README.md) directory houses a general collection of Rust learning resources.
+
+## Suggested Schedule
+
+We have created two suggested schedules to follow, depending on the amount of time you have to commit to learning Rust every week. These schedules will likely be adjusted as we progress through the curriculum and discover how long certain tasks take to complete in real time. Our scheduled tracks are as follows:
+
+- **[Tortoise Track](./schedules/tortoise_track.md)** 🐢 ➞ Plan to commit 1-2 hours per week
+- **[Hare Track](./schedules/hare_track.md)** 🐇 ➞ Plan to commit 2-4 hours per week
 
 ## Contributing
 
