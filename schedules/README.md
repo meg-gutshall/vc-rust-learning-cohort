@@ -13,7 +13,7 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
   - Reading only
 - [1. Getting Started](../curriculum/1_getting_started.md)
 
-[View full schedule here](./schedules/tortoise_track.md)
+[View full schedule here](./tortoise_track.md)
 
 ## Hare Track 🐇
 
@@ -23,4 +23,4 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
 - [1. Getting Started](../curriculum/1_getting_started.md)
 - [2. Programming a Guessing Game](../curriculum/2_programming_a_guessing_game.md)
 
-[View full schedule here](./schedules/hare_track.md)
+[View full schedule here](./hare_track.md)
