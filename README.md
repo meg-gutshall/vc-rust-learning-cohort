@@ -37,7 +37,12 @@ Questions? [Comment on the designated question thread](https://github.com/orgs/V
 
 ## Usage
 
-Fork this repository to track your own progress through the curriculum.
+Fork this repository to make the VC Rust Learning Cohort your own!
+
+- Adjust the pace of the schedule to suit your needs
+- Track your own progress through the curriculum by checking off reading, code, and video tasks as you finish them
+- Keep a list of cohort learning materials at hand
+- Plus, more resources as the repo is updated
 
 ## Curriculum
 
