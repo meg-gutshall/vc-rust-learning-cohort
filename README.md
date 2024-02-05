@@ -63,8 +63,8 @@ Look in the [Primary](./learning_resources/primary/README.md) directory for mate
 
 We have created two suggested schedules to follow, depending on the amount of time you have to commit to learning Rust every week. These schedules will likely be adjusted as we progress through the curriculum and discover how long certain tasks take to complete in real time. Our scheduled tracks are as follows:
 
-- **[Tortoise Track](./schedules/tortoise_track.md)** 🐢 ➞ Plan to commit 1-2 hours per week
-- **[Hare Track](./schedules/hare_track.md)** 🐇 ➞ Plan to commit 2-4 hours per week
+- [Tortoise Track](./schedules/tortoise_track.md) 🐢 ➞ Plan to commit 1-2 hours per week
+- [Hare Track](./schedules/hare_track.md) 🐇 ➞ Plan to commit 2-4 hours per week
 
 ## Contributing
 

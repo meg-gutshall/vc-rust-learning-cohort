@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD007 -->
+
 # 6. Enums and Pattern Matching
 
 ## Reading

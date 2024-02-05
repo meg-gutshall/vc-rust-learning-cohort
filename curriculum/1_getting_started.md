@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD007 -->
+
 # 1. Getting Started
 
 ## Reading
