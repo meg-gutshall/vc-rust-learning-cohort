@@ -32,10 +32,10 @@ Questions? [Comment on the designated question thread](https://github.com/orgs/V
   - [21. Appendix](./curriculum/21_appendix.md)
   - [Type Conversions](./curriculum/22_type_conversions.md)
   - [Conclusion](./curriculum/23_conclusion.md)
-- [Learning Resources](#learning-resources)
-  - [Primary Resources](./learning-resources/primary/README.md)
-  - [Supplementary Resources](./learning-resources/supplementary/README.md)
-  - [Additional Resources](./learning-resources/additional/README.md)
+- [Learning Resources](#learning_resources)
+  - [Primary Resources](./learning_resources/primary/README.md)
+  - [Supplementary Resources](./learning_resources/supplementary/README.md)
+  - [Additional Resources](./learning_resources/additional/README.md)
 - [Suggested Schedule](#suggested-schedule)
 - [Contributing](#contributing)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
@@ -55,7 +55,7 @@ Check out the curriculum directory for a chapter-by-chapter breakdown. Use the d
 
 ## Learning Resources
 
-Look in the [Primary](./learning-resources/primary/README.md) directory for materials needed to complete this curriculum. The [Supplementary](./learning-resources/supplementary/README.md) directory contains learning materials that will help you complete the curriculum, but are optional. The [Additional](./learning-resources/additional/README.md) directory houses a general collection of Rust learning resources.
+Look in the [Primary](./learning_resources/primary/README.md) directory for materials needed to complete this curriculum. The [Supplementary](./learning_resources/supplementary/README.md) directory contains learning materials that will help you complete the curriculum, but are optional. The [Additional](./learning_resources/additional/README.md) directory houses a general collection of Rust learning resources.
 
 ## Suggested Schedule
 
