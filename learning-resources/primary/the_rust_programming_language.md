@@ -6,4 +6,4 @@
 
 The most comprehensive resource for learning Rust, but a bit theoretical sometimes. You will be using this along with Rustlings!
 
-Also, check out the [Rust Book experiment](https://rust-book.cs.brown.edu/)!
+Optionally, you can use the [Rust Book Experiment](../supplementary/rust_book_experiment.md) instead!
