@@ -11,7 +11,7 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
 - [Introduction](../curriculum/0_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
-- [1. Getting Started](../curriculum/1_getting_started.md)
+- [1. Getting Started](../curriculum/01_getting_started.md)
 
 [View full schedule here](./tortoise_track.md)
 
@@ -20,7 +20,7 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
 - [Introduction](../curriculum/0_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
-- [1. Getting Started](../curriculum/1_getting_started.md)
-- [2. Programming a Guessing Game](../curriculum/2_programming_a_guessing_game.md)
+- [1. Getting Started](../curriculum/01_getting_started.md)
+- [2. Programming a Guessing Game](../curriculum/02_programming_a_guessing_game.md)
 
 [View full schedule here](./hare_track.md)
