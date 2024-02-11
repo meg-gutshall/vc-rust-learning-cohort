@@ -8,7 +8,7 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
 
 ## Tortoise Track 🐢
 
-- [Introduction](../curriculum/0_introduction.md)
+- [Introduction](../curriculum/00_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
 - [1. Getting Started](../curriculum/01_getting_started.md)
@@ -17,7 +17,7 @@ This is a suggested schedule. Feel free to make a copy of your chosen track and 
 
 ## Hare Track 🐇
 
-- [Introduction](../curriculum/0_introduction.md)
+- [Introduction](../curriculum/00_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
 - [1. Getting Started](../curriculum/01_getting_started.md)

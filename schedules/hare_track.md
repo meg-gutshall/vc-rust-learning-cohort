@@ -4,38 +4,38 @@
 
 **Dates:** February 8-14
 
-- [Introduction](../curriculum/0_introduction.md)
+- [Introduction](../curriculum/00_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
-- [1. Getting Started](../curriculum/1_getting_started.md)
-- [2. Programming a Guessing Game](../curriculum/2_programming_a_guessing_game.md)
+- [1. Getting Started](../curriculum/01_getting_started.md)
+- [2. Programming a Guessing Game](../curriculum/02_programming_a_guessing_game.md)
 
 ## Week 2
 
 **Dates:** February 15-21
 
-- [3. Common Programming Concepts](../curriculum/3_common_programming_concepts.md)
-- [4. Understanding Ownership](../curriculum/4_understanding_ownership.md)
+- [3. Common Programming Concepts](../curriculum/03_common_programming_concepts.md)
+- [4. Understanding Ownership](../curriculum/04_understanding_ownership.md)
 
 ## Week 3
 
 **Dates:** February 22-28
 
-- [5. Using Structs to Structure Related Data](../curriculum/5_using_structs_to_structure_related_data.md)
-- [6. Enums and Patterns Matching](../curriculum/6_enums_and_pattern_matching.md)
+- [5. Using Structs to Structure Related Data](../curriculum/05_using_structs_to_structure_related_data.md)
+- [6. Enums and Patterns Matching](../curriculum/06_enums_and_pattern_matching.md)
 
 ## Week 4
 
 **Dates:** February 29 – March 6
 
-- [7. Managing Growing Projects with Packages, Crates, and Modules](../curriculum/7_managing_growing_projects_with_packages_crates_and_modules.md)
-- [8. Common Collections](../curriculum/8_common_collections.md)
+- [7. Managing Growing Projects with Packages, Crates, and Modules](../curriculum/07_managing_growing_projects_with_packages_crates_and_modules.md)
+- [8. Common Collections](../curriculum/08_common_collections.md)
 
 ## Week 5
 
 **Dates:** March 7-13
 
-- [9. Error Handling](../curriculum/9_error_handling.md)
+- [9. Error Handling](../curriculum/09_error_handling.md)
 - [10. Generic Types, Traits, and Lifetimes](../curriculum/10_generic_types_traits_and_lifetimes.md)
 - [11. Writing Automated Tests](../curriculum/11_writing_automated_tests.md)
 

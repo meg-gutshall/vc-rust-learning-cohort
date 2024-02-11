@@ -4,7 +4,7 @@
 
 **Dates:** February 8-14
 
-- [Introduction](../curriculum/0_introduction.md)
+- [Introduction](../curriculum/00_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
   - Reading only
 - [1. Getting Started](../curriculum/01_getting_started.md)
