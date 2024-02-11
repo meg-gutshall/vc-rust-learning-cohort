@@ -32,14 +32,11 @@ Questions? [Comment on the designated question thread](https://github.com/orgs/V
   - [21. Appendix](./curriculum/21_appendix.md)
   - [Type Conversions](./curriculum/22_type_conversions.md)
   - [Conclusion](./curriculum/23_conclusion.md)
-- [Learning Resources](#learning-resources)
-  - [Primary Resources](./learning_resources/primary/README.md)
-  - [Supplementary Resources](./learning_resources/supplementary/README.md)
-  - [Additional Resources](./learning_resources/additional/README.md)
+- [Learning Resources](./learning_resources/README.md)
 - [Suggested Schedule](#suggested-schedule)
   - [Tortoise Track 🐢](./schedules/tortoise_track.md)
   - [Hare Track 🐇](./schedules/hare_track.md)
-- [Contributing](#contributing)
+- [Contributing](./CONTRIBUTING.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ## Usage
@@ -57,7 +54,7 @@ Check out the curriculum directory for a chapter-by-chapter breakdown. Use the d
 
 ## Learning Resources
 
-Look in the [Primary](./learning_resources/primary/README.md) directory for materials needed to complete this curriculum. The [Supplementary](./learning_resources/supplementary/README.md) directory contains learning materials that will help you complete the curriculum, but are optional. The [Additional](./learning_resources/additional/README.md) directory houses a general collection of Rust learning resources.
+Look in the [Primary](./learning_resources/primary/README.md) directory for materials needed to complete this curriculum. The [Supplementary](./learning_resources/supplementary/README.md) directory contains learning materials that will help you complete the curriculum, but are optional. You can find additional resources in our [Rust Resources Thread](https://github.com/orgs/Virtual-Coffee/discussions/1122#discussioncomment-8429375) on the Virtual Coffee discussion board.
 
 ## Suggested Schedule
 
@@ -65,7 +62,3 @@ We have created two suggested schedules to follow, depending on the amount of ti
 
 - [Tortoise Track](./schedules/tortoise_track.md) 🐢 ➞ Plan to commit 1-2 hours per week
 - [Hare Track](./schedules/hare_track.md) 🐇 ➞ Plan to commit 2-4 hours per week
-
-## Contributing
-
-If you would like to add a learning resource, see [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step directions.
