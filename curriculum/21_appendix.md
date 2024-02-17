@@ -2,7 +2,7 @@
 
 ## Reading
 
-- [ ] The Rust Programming Language – [21. Appendix](https://doc.rust-lang.org/book/appendix-00.html)
+- [x] The Rust Programming Language – [21. Appendix](https://doc.rust-lang.org/book/appendix-00.html)
 
 ## Code
 
