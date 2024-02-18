@@ -1,35 +1,9 @@
 # 8. Common Collections
 
-## Reading
+## 8.1. Storing Lists of Values with Vectors
 
-### The Rust Programming Language – 8. Common Collections
+## 8.2. Storing UTF-8 Encoded Text with Strings
 
-## Code
+## 8.3. Storing Keys with Associated Values in Hash Maps
 
-### Rustlings – Vectors
-
-### Rustlings – Strings
-
-### Rustlings – Hashmaps
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – vec1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – vec2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – strings1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – strings2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – strings3.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – strings4.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – hashmaps1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – hashmaps2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – hashmaps3.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – quiz2.rs
+## 8.4. Ownership Inventory #2

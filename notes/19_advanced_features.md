@@ -1,19 +1,11 @@
 # 19. Advanced Features
 
-## Reading
+## 19.1. Unsafe Rust
 
-### The Rust Programming Language – 19. Advanced Features
+## 19.2. Advanced Traits
 
-## Code
+## 19.3. Advanced Types
 
-### Rustlings – Macros
+## 19.4. Advanced Functions and Closures
 
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – macros1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – macros2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – macros3.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – macros4.rs
+## 19.5. Macros

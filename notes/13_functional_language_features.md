@@ -1,21 +1,9 @@
 # 13. Functional Language Features: Iterators and Closures
 
-## Reading
+## 13.1. Closures: Anonymous Functions that Capture Their Environment
 
-### The Rust Programming Language – 13. Functional Language Features: Iterators and Closures
+## 13.2. Processing a Series of Items with Iterators
 
-## Code
+## 13.3. Improving Our I/O Project
 
-### Rustlings – Iterators
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – iterators1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – iterators2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – iterators3.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – iterators4.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – iterators5.rs
+## 13.4. Comparing Performance: Loops vs. Iterators

@@ -1,9 +1,7 @@
 # 20. Final Project: Building a Multithreaded Web Server
 
-## Reading
+## 20.1. Building a Single-Threaded Web Server
 
-### The Rust Programming Language – 20. Final Project: Building a Multithreaded Web Server
+## 20.2. Turning Our Single-Threaded Server into a Multithreaded Server
 
-## Code
-
-You can build the project suggested in the book, or create something completely yours!
+## 20.3. Graceful Shutdown and Cleanup

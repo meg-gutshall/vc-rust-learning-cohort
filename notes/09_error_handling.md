@@ -1,23 +1,7 @@
 # 9. Error Handling
 
-## Reading
+## 9.1. Unrecoverable Errors with `panic!`
 
-### The Rust Programming Language – 9. Error Handling
+## 9.2. Unrecoverable Errors with `Result`
 
-## Code
-
-### Rustlings – Error Handling
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors3.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors4.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors5.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – errors6.rs
+## 9.3. To `panic!` or Not to `panic!`

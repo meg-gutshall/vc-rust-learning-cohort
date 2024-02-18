@@ -1,17 +1,7 @@
 # 5. Using Structs to Structure Related Data
 
-## Reading
+## 5.1. Defining and Instantiating Structs
 
-### The Rust Programming Language – 5. Using Structs to Structure Related Data
+## 5.2. An Example Program Using Structs
 
-## Code
-
-### Rustlings – Structs
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – structs1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – structs2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – structs3.rs
+## 5.3. Method Syntax

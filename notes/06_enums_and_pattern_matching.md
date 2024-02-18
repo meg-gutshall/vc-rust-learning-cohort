@@ -1,13 +1,9 @@
 # 6. Enums and Pattern Matching
 
-## Reading
+## 6.1. Defining an Enum
 
-### The Rust Programming Language – 6. Enums and Pattern Matching
+## 6.2. The `match` Control Flow Construct
 
-## Code
+## 6.3. Concise Control Flow with `if let`
 
-### Rustlings – Enums
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – enums1.rs
+## 6.4. Ownership Inventory #1

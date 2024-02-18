@@ -1,9 +1,13 @@
 # 12. An I/O Project: Building A Command Line Program
 
-## Reading
+## 12.1. Accepting Command Line Arguments
 
-### The Rust Programming Language – 12. An I/O Project: Building A Command Line Program
+## 12.2. Reading a File
 
-## Code
+## 12.3. Refactoring to Improve Modularity and Error Handling
 
-You can create a command-line program using the book as a guide, or try building a CLI of your own!
+## 12.4. Developing the Library's Functionality with Test Driven Development
+
+## 12.5. Working with Environment Variables
+
+## 12.6. Writing Error Messages to Standard Error Instead of Standard Output

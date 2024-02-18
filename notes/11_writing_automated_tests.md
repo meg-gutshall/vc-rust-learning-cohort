@@ -1,17 +1,7 @@
 # 11. Writing Automated Tests
 
-## Reading
+## 11.1. How to Write Tests
 
-### The Rust Programming Language – 11. Writing Automated Tests
+## 11.2. Controlling How Tests Are Run
 
-## Code
-
-### Rustlings – Tests
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – tests1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – tests2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – tests3.rs
+## 11.3. Test Organization

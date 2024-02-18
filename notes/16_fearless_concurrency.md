@@ -1,19 +1,9 @@
 # 16. Fearless Concurrency
 
-## Reading
+## 16.1. Using Threads to Run Code Simultaneously
 
-### The Rust Programming Language – 16. Fearless Concurrency
+## 16.2. Using Message Passing to Transfer Data Between Threads
 
-## Code
+## 16.3. Shared-State Concurrency
 
-### Rustlings – Smart Pointers
-
-### Rustlings – Threads
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – threads1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – threads2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – threads3.rs
+## 16.4. Extensible Concurrency with the `Sync` and `Send` Traits

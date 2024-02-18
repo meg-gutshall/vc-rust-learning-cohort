@@ -1,17 +1,11 @@
 # 7. Managing Growing Projects with Packages, Crates, and Modules
 
-## Reading
+## 7.1. Packages and Crates
 
-### The Rust Programming Language – 7. Managing Growing Projects with Packages, Crates, and Modules
+## 7.2. Defining Modules to Control Scope and Privacy
 
-## Code
+## 7.3. Paths for Referring to an Item in the Module Tree
 
-### Rustlings – Modules
+## 7.4. Bringing Paths into Scope with the `use` Keyword
 
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – modules1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – modules2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – modules3.rs
+## 7.5. Separating Modules into Different Files

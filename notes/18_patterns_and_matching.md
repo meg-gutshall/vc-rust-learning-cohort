@@ -1,15 +1,7 @@
 # 18. Patterns and Matching
 
-## Reading
+## 18.1. All the Places Patterns Can Be Used
 
-### The Rust Programming Language – 18. Patterns and Matching
+## 18.2. Refutability: Whether a Pattern Might Fail to Match
 
-## Code
-
-### Rustlings – Enums
-
-## Video
-
-### Watch Learn Rust with Rustlings 5.2.1 – enums2.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – enums3.rs
+## 18.3. Pattern Syntax

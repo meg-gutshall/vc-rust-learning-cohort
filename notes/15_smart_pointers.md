@@ -1,19 +1,13 @@
 # 15. Smart Pointers
 
-## Reading
+## 15.1. Using `Box<T>` to Point to Data on the Heap
 
-### The Rust Programming Language – 15. Smart Pointers
+## 15.2. Treating Smart Pointers Like Regular References with the `Deref` Trait
 
-## Code
+## 15.3. Running Code on Cleanup with the `Drop` Trait
 
-### Rustlings – Smart Pointers
+## 15.4. `Rc<T>`, the Reference Counted Smart Pointer
 
-## Video
+## 15.5. `RefCell<T>` and the Interior Mutability Pattern
 
-### Watch Learn Rust with Rustlings 5.2.1 – box1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – arc1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – rc1.rs
-
-### Watch Learn Rust with Rustlings 5.2.1 – cow1.rs
+## 15.6. Reference Cycles Can Leak Memory
