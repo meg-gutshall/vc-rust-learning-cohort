@@ -39,29 +39,33 @@
 - [10. Generic Types, Traits, and Lifetimes](../curriculum/10_generic_types_traits_and_lifetimes.md)
 - [11. Writing Automated Tests](../curriculum/11_writing_automated_tests.md)
 
+## Catch Up Break
+
+**Dates:** March 14-27
+
 ## Week 6
 
-**Dates:** March 14-20
+**Dates:** March 28 – April 3
 
 - [12. An I/O Project: Building A Command Line Program](../curriculum/12_an_io_project.md)
 
 ## Week 7
 
-**Dates:** March 21-27
+**Dates:** April 4-10
 
 - [13. Functional Language Features: Iterators and Closures](../curriculum/13_functional_language_features.md)
 - [14. More about Cargo and Crates.io](../curriculum/14_more_about_cargo_and_crates.md)
 
 ## Week 8
 
-**Dates:** March 28 – April 3
+**Dates:** April 11-17
 
 - [15. Smart Pointers](../curriculum/15_smart_pointers.md)
 - [16. Fearless Concurrency](../curriculum/16_fearless_concurrency.md)
 
 ## Week 9
 
-**Dates:** April 4-10
+**Dates:** April 18-24
 
 - [17. Object Oriented Programming Features of Rust](../curriculum/17_object_oriented_programming_features_of_rust.md)
 - [18. Patterns and Matching](../curriculum/18_patterns_and_matching.md)
@@ -69,13 +73,13 @@
 
 ## Week 10
 
-**Dates:** April 11-17
+**Dates:** April 25 – May 1
 
 - [20. Final Project: Building a Multithreaded Web Server](../curriculum/20_final_project.md)
 
 ## Week 11
 
-**Dates:** April 18-24
+**Dates:** May 2-8
 
 - [21. Appendix](../curriculum/21_appendix.md)
   - Code exercises and video
