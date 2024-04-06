@@ -2,9 +2,9 @@
 
 This is a suggested schedule. Feel free to make a copy of your chosen track and adjust to your own needs. For you, one chapter may take 1-2 hours or 1-2 weeks. Take your time!
 
-## Current Week: Catch Up Break
+## Current Week: Week 6
 
-**Dates:** March 14-27
+**Dates:** April 5-11
 
 ## Tortoise Track 🐢
 
