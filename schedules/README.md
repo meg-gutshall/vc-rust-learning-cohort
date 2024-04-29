@@ -2,9 +2,9 @@
 
 This is a suggested schedule. Feel free to make a copy of your chosen track and adjust to your own needs. For you, one chapter may take 1-2 hours or 1-2 weeks. Take your time!
 
-## Current Week: Week 7
+## Current Week: Week 8
 
-**Dates:** April 12-18
+**Dates:** April 19-25
 
 ## Tortoise Track 🐢
 
