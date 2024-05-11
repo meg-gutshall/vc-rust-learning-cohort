@@ -2,9 +2,9 @@
 
 This is a suggested schedule. Feel free to make a copy of your chosen track and adjust to your own needs. For you, one chapter may take 1-2 hours or 1-2 weeks. Take your time!
 
-## Current Week: Week 10
+## Current Week: Week 11
 
-**Dates:** May 3 - 10
+**Dates:** May 10 - 16
 
 ## Tortoise Track 🐢
 
