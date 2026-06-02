@@ -2,7 +2,7 @@
 
 ## Week 1
 
-**Dates:** February 8-14
+**Dates:** 
 
 - [Introduction](../curriculum/00_introduction.md)
 - [21. Appendix](../curriculum/21_appendix.md)
@@ -11,90 +11,98 @@
 
 ## Week 2
 
-**Dates:** February 15-21
+**Dates:** 
 
 - [2. Programming a Guessing Game](../curriculum/02_programming_a_guessing_game.md)
 
 ## Week 3
 
-**Dates:** February 22-28
+**Dates:** 
 
 - [3. Common Programming Concepts](../curriculum/03_common_programming_concepts.md)
 
 ## Week 4
 
-**Dates:** February 29 – March 6
+**Dates:** 
 
 - [4. Understanding Ownership](../curriculum/04_understanding_ownership.md)
 - [5. Using Structs to Structure Related Data](../curriculum/05_using_structs_to_structure_related_data.md)
 
-## Week 5
+## Week 5: Catch Up Break
 
-**Dates:** March 7-13
+**Dates:** 
+
+## Week 6
+
+**Dates:** 
 
 - [6. Enums and Patterns Matching](../curriculum/06_enums_and_pattern_matching.md)
 - [7. Managing Growing Projects with Packages, Crates, and Modules](../curriculum/07_managing_growing_projects_with_packages_crates_and_modules.md)
 
-## Catch Up Break
+## Week 7
 
-**Dates:** March 14 – April 4
-
-## Week 6
-
-**Dates:** April 5-11
+**Dates:** 
 
 - [8. Common Collections](../curriculum/08_common_collections.md)
 - [9. Error Handling](../curriculum/09_error_handling.md)
 
-## Week 7
+## Week 8
 
-**Dates:** April 12-18
+**Dates:** 
 
 - [10. Generic Types, Traits, and Lifetimes](../curriculum/10_generic_types_traits_and_lifetimes.md)
 
-## Week 8
+## Week 9
 
-**Dates:** April 19-25
+**Dates:** 
 
 - [11. Writing Automated Tests](../curriculum/11_writing_automated_tests.md)
 - [12. An I/O Project: Building A Command Line Program](../curriculum/12_an_io_project.md)
 
-## Week 9
+## Week 10: Catch Up Break
 
-**Dates:** April 26 – May 2
+**Dates:** 
+
+## Week 11
+
+**Dates:** 
 
 - [13. Functional Language Features: Iterators and Closures](../curriculum/13_functional_language_features.md)
 - [14. More about Cargo and Crates.io](../curriculum/14_more_about_cargo_and_crates.md)
 
-## Week 10
+## Week 12
 
-**Dates:** May 3-9
+**Dates:** 
 
 - [15. Smart Pointers](../curriculum/15_smart_pointers.md)
 - [16. Fearless Concurrency](../curriculum/16_fearless_concurrency.md)
 
-## Week 11
+## Week 13
 
-**Dates:** May 10-16
+**Dates:** 
 
 - [17. Object Oriented Programming Features of Rust](../curriculum/17_object_oriented_programming_features_of_rust.md)
 - [18. Patterns and Matching](../curriculum/18_patterns_and_matching.md)
 
-## Week 12
+## Week 14
 
-**Dates:** May 17-23
+**Dates:** 
 
 - [19. Advanced Features](../curriculum/19_advanced_features.md)
 
-## Week 13
+## Week 15: Catch Up Break
 
-**Dates:** May 24-30
+**Dates:** 
+
+## Week 16
+
+**Dates:** 
 
 - [20. Final Project: Building a Multithreaded Web Server](../curriculum/20_final_project.md)
 
-## Week 14
+## Week 17
 
-**Dates:** May 31 – June 6
+**Dates:** 
 
 - [21. Appendix](../curriculum/21_appendix.md)
   - Code exercises and video
